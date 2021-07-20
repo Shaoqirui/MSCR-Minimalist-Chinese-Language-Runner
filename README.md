@@ -3,7 +3,7 @@
 MSCR(Minimalist Shaogod for Cinese Runner)是我开发的一款采用c++语言的中文编程语言的运行工具，内部实现类似JVM，基于我早期开发的sws语言GUI版本。<br/> MSCR类似c语言，只不过体积比gcc小得多（仅14kb），同时支持简单的图形界面，MSCR采用中文编程，比sws语言更好玩。 MSCR全部由我（邵帝）开发，由于本人刚刚初中毕业，水平有限，软件可能存在一些bug，希望大家理解，也欢迎报告问题和建议!<br/>
 [立即下载体验](https://github.com/Shaoqirui/MSCR-Minimalist-Shaogod-for-Cinese-Runner-/releases/tag/1)<br/>
 ## 编译源代码
-MSCR主程序在MingGw环境下开发，代码（main.cpp）可以通过G++编译，欢迎二次开发和学习借鉴。
+MSCR主程序在MingGw环境下开发，代码（MSCR.cpp）可以通过G++编译，欢迎二次开发和学习借鉴。
 MSCR图形界面解析器(GUI.exe)采用.net开发，识别邵帝语言，没必要二次开发。
 ## MSCR的语法
 ### 基本语句:
